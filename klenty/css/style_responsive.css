@@ -1,0 +1,22 @@
+ 
+	@media (max-width: 767px){
+		
+	
+	}
+	
+	
+	@media screen and (min-device-width: 1200px) and (max-device-width: 1366px) { 
+	.header .logo{
+	padding:0;
+}
+}
+
+@media screen and (min-device-width: 1800px) and (max-device-width: 1920px) { 
+ 
+}
+
+
+
+
+
+
